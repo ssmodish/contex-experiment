@@ -1,13 +1,9 @@
-import BookList from "./components/BookList";
-import Navbar from "./components/Navbar";
-
 function App() {
   return (
-    <div className="App">
-      <Navbar />
-      <BookList />
+    <div className='App'>
+      <h1>hello</h1>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
